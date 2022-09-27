@@ -1,0 +1,62 @@
+<svg id="jumbotron-left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080.87 568.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        opacity: 0.2;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        mask: url(#mask);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-340.91" y1="2626.42" x2="-339.91" y2="2626.42" gradientTransform="matrix(1080.87, 0, 0, -1080.87, 368235.59, 2839235.07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <clipPath id="clip-path" transform="translate(242.43 -136.35)">
+      <rect class="cls-2" x="-242.43" y="136.35" width="1080.87" height="568.3"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(242.43 -136.35)">
+      <polygon class="cls-2" points="-242.44 704.65 -242.44 496.26 403.65 136.35 838.43 136.35 -127.4 704.65 -242.44 704.65"/>
+    </clipPath>
+    <mask id="mask" x="0" y="0" width="1080.87" height="568.3" maskUnits="userSpaceOnUse">
+      <g transform="translate(242.43 -136.35)">
+        <rect class="cls-1" x="-242.43" y="136.35" width="1080.87" height="568.3"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient-2" x1="-340.91" y1="2626.42" x2="-339.91" y2="2626.42" gradientTransform="matrix(1080.87, 0, 0, -1080.87, 368478.02, 2839098.72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc9ec"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>Jumbotron Left</title>
+  <g class="cls-3">
+    <g class="cls-4">
+      <g class="cls-5">
+        <g class="cls-6">
+          <rect class="cls-7" width="1080.87" height="568.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

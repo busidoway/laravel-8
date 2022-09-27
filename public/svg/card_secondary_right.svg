@@ -1,0 +1,62 @@
+<svg id="card-secondary-right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86.46 211.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        opacity: 0.2;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        mask: url(#mask);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-347.54" y1="2617.58" x2="-346.54" y2="2617.58" gradientTransform="matrix(86.46, 0, 0, -86.46, 30303.54, 226737.98)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ccc"/>
+    </linearGradient>
+    <clipPath id="clip-path" transform="translate(-254.77 -314.69)">
+      <rect class="cls-2" x="254.77" y="314.69" width="86.46" height="211.62"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(-254.77 -314.69)">
+      <polygon class="cls-2" points="254.77 314.69 341.23 314.69 341.23 526.31 254.77 314.69"/>
+    </clipPath>
+    <mask id="mask" x="0" y="0" width="86.46" height="211.61" maskUnits="userSpaceOnUse">
+      <g transform="translate(-254.77 -314.69)">
+        <rect class="cls-1" x="254.77" y="314.69" width="86.46" height="211.61"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient-2" x1="-347.54" y1="2617.58" x2="-346.54" y2="2617.58" gradientTransform="matrix(86.46, 0, 0, -86.46, 30048.78, 226423.29)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dc1f26"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>Card Secondary Right</title>
+  <g class="cls-3">
+    <g class="cls-4">
+      <g class="cls-5">
+        <g class="cls-6">
+          <rect class="cls-7" width="86.46" height="211.61"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

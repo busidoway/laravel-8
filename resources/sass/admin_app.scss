@@ -1,0 +1,88 @@
+.user-video__list {
+    background: #f2f4f6;
+    padding: 15px 15px 5px 15px;
+    border-radius: 10px;
+    .form-check-input {
+        background-color: #fff;
+    }
+    .form-check-input:checked {
+        background-color: #1F2937;
+        border-color: #1F2937;
+    }
+  }
+
+.input-group__slider-date {
+    .input-group-text {
+        border-top-right-radius: 0.5rem !important;
+        border-bottom-right-radius: 0.5rem !important;
+    }
+    .btn-group-text {
+        padding: 0.5rem 0.625rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #6B7280;
+        text-align: center;
+        white-space: nowrap;
+        background-color: #ffffff;
+        border: 0.0625rem solid #D1D5DB;
+        box-shadow: 0 1px 2px 0 rgb(0 0 0 / 7%);
+        border-radius: 0.5rem !important;
+    }
+}
+
+.menu-list__item__drag-btn {
+    visibility: hidden;
+    padding: 0.75rem 1rem;
+    cursor:grab;
+}
+
+.menu-list__item__drag-btn.grabbing {
+    cursor: grabbing;
+}
+
+.menu-list__item__wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    &:hover .menu-list__item__drag-btn {
+        visibility: visible;
+    }
+}
+
+.menu-list__item__content {
+    border-bottom: 0.0625rem solid #E5E7EB;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    &:hover {
+        color:#374151;
+        background-color: rgba(17, 24, 39, 0.075);
+    }
+}
+
+.menu-list__item__title {
+    padding: 0.75rem 0.75rem;
+    width: 100%;
+}
+
+.menu-list__item__action {
+    padding: 0.75rem 0.75rem;
+}
+
+.menu-list__item__settings {
+    padding: 0.75rem 0.75rem;
+}
+
+.menu-list__item__settings__btn {
+    cursor: pointer;
+}
+
+.menu-list__item__toggle-btn {
+    padding: 0.75rem 0.75rem;
+    cursor: pointer;
+}

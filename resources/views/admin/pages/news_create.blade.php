@@ -1,0 +1,8 @@
+@extends('admin.template.admin')
+
+@section('content')
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center py-4">
+        @includeif('admin.includes.nav_page', ['title' => 'Добавление новости', 'title_nav' => 'Новости', 'title_nav_route' => 'admin.news'])
+    </div>
+    @include('admin.modules.admin_news_edit')
+@endsection

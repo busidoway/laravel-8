@@ -1,0 +1,53 @@
+<svg id="card-primary-right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86.45 211.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        opacity: 0.2;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        mask: url(#mask);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-347.54" y1="2613.76" x2="-346.54" y2="2613.76" gradientTransform="matrix(86.45, 0, 0, -86.45, 30299.95, 226380)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ccc"/>
+    </linearGradient>
+    <clipPath id="clip-path" transform="translate(-254.78 -314.69)">
+      <polygon class="cls-2" points="254.78 314.69 341.23 314.69 341.23 526.31 254.78 314.69"/>
+    </clipPath>
+    <mask id="mask" x="0" y="0" width="86.45" height="211.61" maskUnits="userSpaceOnUse">
+      <g transform="translate(-254.78 -314.69)">
+        <rect class="cls-1" x="254.78" y="314.69" width="86.45" height="211.61"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient-2" x1="-347.54" y1="2613.76" x2="-346.54" y2="2613.76" gradientTransform="matrix(86.45, 0, 0, -86.45, 30045.18, 226065.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d56a6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>Card Primary Right</title>
+  <g class="cls-3">
+    <g class="cls-4">
+      <g class="cls-5">
+        <rect class="cls-6" width="86.45" height="211.61"/>
+      </g>
+    </g>
+  </g>
+</svg>

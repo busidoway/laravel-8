@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="card-primary-left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 202.9 300" style="enable-background:new 0 0 202.9 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:url(#SVGID_3_);}
+</style>
+<title>Card Primary Left</title>
+<g>
+	<defs>
+		<polygon id="SVGID_1_" points="0,0 0,300 202.9,300 83.8,0 		"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-541.055" y1="-2053.1909" x2="-540.055" y2="-2053.1909" gradientTransform="matrix(178.4406 -144.1251 144.1251 178.4406 392452.2188 288633.1875)">
+			<stop  offset="0" style="stop-color:#375FAC"/>
+			<stop  offset="1" style="stop-color:#5D9FD6"/>
+		</linearGradient>
+		<polygon class="st1" points="-145.3,116.6 124.5,-101.4 351.9,180.2 82.1,398.1 		"/>
+	</g>
+</g>
+</svg>

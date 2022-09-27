@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="jumbotron-corner-right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 223 142.9" style="enable-background:new 0 0 223 142.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:url(#SVGID_3_);}
+</style>
+<title>Jumbotron Corner Right</title>
+<g>
+	<defs>
+		<polygon id="SVGID_1_" points="0,142.9 223,142.9 223,0 		"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-521.5137" y1="-2129.8464" x2="-520.5137" y2="-2129.8464" gradientTransform="matrix(128.5377 177.8291 -177.8291 128.5377 -311643 366522.0313)">
+			<stop  offset="0" style="stop-color:#2B235C"/>
+			<stop  offset="1" style="stop-color:#40498E"/>
+		</linearGradient>
+		<polygon class="st1" points="-67.9,49 146.4,-105.9 290.8,93.9 76.5,248.7 		"/>
+	</g>
+</g>
+</svg>

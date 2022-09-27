@@ -1,0 +1,103 @@
+.accordion-membership {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  transition: 0.3s ease-out all;
+}
+.accordion-membership:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-10px);
+}
+.accordion-membership .accordion-icon {
+  position: absolute;
+  background: #990606;
+  border-radius: 100%;
+  padding: 6px;
+  top: 15px;
+  left: -25px;
+}
+.accordion-membership .card-header {
+  position: relative;
+  padding: 1rem 1.25rem 0.5rem 1.25rem;
+}
+.accordion-membership .card-header button {
+  color: #4d4d4d;
+  font-weight: bold;
+}
+.accordion-membership .card-header button, .accordion-membership .card-header button:hover, .accordion-membership .card-header button:focus {
+  background: none;
+  box-shadow: none;
+  border: 0;
+}
+.accordion-membership > .card {
+  overflow: visible;
+}
+.accordion-membership .card-body {
+  padding: 0.25rem 2.5rem 1rem 2.5rem;
+}
+.accordion-membership .table thead {
+  font-family: "Helvetica", "Helvetica Neue", Arial, -apple-system, BlinkMacSystemFont, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.accordion-membership .table thead th {
+  font-size: 1rem;
+  font-weight: normal;
+}
+.accordion-membership .table tbody tr {
+  cursor: default;
+}
+.accordion-membership .table tbody tr:nth-of-type(2n+1) {
+  background-color: transparent;
+}
+.accordion-membership .table tbody tr:nth-of-type(2n+2) {
+  background-color: #f2f2f2;
+}
+.accordion-membership .table tbody td {
+  font-size: 1rem;
+  color: #212529;
+}
+.accordion-membership .table p {
+  margin: 0;
+}
+.accordion-membership .a-block-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.accordion-membership .a-block-item {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 15px;
+  height: 100%;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  transition: 0.3s ease-out all;
+}
+.accordion-membership .a-block-item:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-10px);
+}
+.accordion-membership .a-block-header {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.accordion-membership .a-block-body {
+  height: 100%;
+}
+.accordion-membership .a-block-button {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.news-item .card {
+  transition: 0.3s ease-out all;
+}
+.news-item .card:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-10px);
+}
+
+.btn-gray {
+  border-color: #d1d1d1;
+  background: #f2f2f2;
+  color: #212529;
+  cursor: default;
+}
